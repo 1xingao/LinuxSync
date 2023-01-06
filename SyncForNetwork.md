@@ -47,3 +47,11 @@ DHCP客户在未获取到IP地址时使用地址0.0.0.0
 
 ![](https://fastly.jsdelivr.net/gh/1xingao/picgo@main/img/16728039421501672803941741.png)
 
+### 电子邮件
+
+![](https://fastly.jsdelivr.net/gh/1xingao/picgo@main/img/16729737435501672973743488.png)
+
+### 万维网WWW
+
+![](https://fastly.jsdelivr.net/gh/1xingao/picgo@main/img/16729759785221672975977921.png)
+
